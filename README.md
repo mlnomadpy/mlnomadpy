@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=skywolfmo&color=blue)
 
 <h2>Welcome to Coffee land</h2>
-I go by many names, I am known for many skills. A man from myths and legends, I challenged demons and purged devils. **Taha** of the house **Bouhsine**, First of my name, Jake of all trades, Breaker of GPUs, **Google Certified TensorFlow Developer**, Lead **@gdscuiz**, Organizer **@tfugagadir**, Hater of PHP. 
+I go by many names, I am known for many skills. A man from myths and legends, I challenged demons and purged devils. Taha of the house Bouhsine, First of my name, Jake of all trades, Breaker of GPUs, Google Certified TensorFlow Developer, Lead @gdscuiz, Organizer @tfugagadir, Hater of PHP. 
 
 <h4>Jake of all trades, Master of these</h4>
 
