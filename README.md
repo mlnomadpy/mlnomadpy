@@ -8,3 +8,20 @@
   <div align="center">My data is scrambled, but my models are lite</div>
   <div align="center">Live slow, die whenever is right</div>
 </div>
+
+![](https://komarev.com/ghpvc/?username=skywolfmo&color=blue)
+
+<h2>Welcome to Coffee land</h2>
+I go by many names, I am known for many skills. A man from myths and legends, I challenged demons and purged devils. **Taha** of the house **Bouhsine**, First of my name, Jake of all trades, Breaker of GPUs, **Google Certified TensorFlow Developer**, Lead **@gdscuiz**, Organizer **@tfugagadir**, Hater of PHP. 
+
+<h4>Jake of all trades, Master of these</h4>
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> 
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%2314354C.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+
+
+![Skywolfmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywolfmo&theme=midnight-purple&show_icons=true)
