@@ -7,6 +7,8 @@
   <div align="center">My code is spaghetti, but no bugs at sight</div>
   <div align="center">My data is scrambled, but my models are lite</div>
   <div align="center">Live slow, die whenever is right</div>
+  <div align="center">My insights are valuable, my reports are bright</div>
+ <div align="center">I strive for accuracy, and my skills ignite</div>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=skywolfmo&color=blue)
