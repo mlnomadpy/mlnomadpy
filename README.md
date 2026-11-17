@@ -31,8 +31,3 @@ I go by many names, I am known for many skills. A man from myths and legends, I 
 </p>
 
 
-![Skywolfmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlnomadpy&theme=midnight-purple&show_icons=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlnomadpy&" alt="mlnomadpy" /></p>
-
-
